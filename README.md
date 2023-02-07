@@ -1,2 +1,2 @@
 # FaceFinde
-Christian y Víctor
+Víctor & Christian
