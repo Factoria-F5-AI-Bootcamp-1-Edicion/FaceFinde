@@ -21,10 +21,15 @@ This application uses Python and Artificial Vision to detect faces in video. It 
 - OS
 
 ## Installation
+Local
 0. conda env create -n FaceFind --file environment.yml
 1. Clone or download the repository
 2. Install the required libraries by running `pip install -r requirements.txt`
 3. Run the script with `python main.py`
+Remoto
+Implementamos una politica de CD CI con git-action para hacer el deploy y llo
+automatizamos para lanzarlo en railway
+
 
 ## Conclusion
 
