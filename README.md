@@ -29,6 +29,7 @@ Local
 Remoto
 Implementamos una politica de CD CI con git-action para hacer el deploy y llo
 automatizamos para lanzarlo en railway
+![Application Screenshot](https://github.com/Factoria-F5-AI-Bootcamp-1-Edicion/FaceFinde/blob/main/Captura%20de%20pantalla_2023-02-07_10-31-57.png?raw=true)
 
 
 ## Conclusion
