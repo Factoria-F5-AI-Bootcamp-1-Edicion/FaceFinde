@@ -32,7 +32,10 @@ This application demonstrates the capabilities of Python and Artificial Vision i
 
 
 # The Team: 
-Víctor & Christianl
+Víctor & Christian
+
+#Presentación:
+https://www.canva.com/design/DAFZ4M4KXsA/QHx7cAqsHhQH5omOHq_SEw/view?utm_content=DAFZ4M4KXsA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
