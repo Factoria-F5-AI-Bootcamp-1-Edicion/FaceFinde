@@ -31,8 +31,8 @@ This application uses Python and Artificial Vision to detect faces in video. It 
 This application demonstrates the capabilities of Python and Artificial Vision in detecting faces in images. It can be used as a starting point for more advanced projects in computer vision and image processing.
 
 
-# The Team: AratanCoders
-Víctor Arbiol
+# The Team: 
+Víctor & Christianl
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
